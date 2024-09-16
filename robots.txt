@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alqva.github.io/tiZ/sitemap.tiZ.gz
